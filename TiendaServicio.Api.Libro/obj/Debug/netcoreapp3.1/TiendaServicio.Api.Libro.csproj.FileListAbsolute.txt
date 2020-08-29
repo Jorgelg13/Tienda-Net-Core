@@ -59,3 +59,4 @@ C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServi
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.dll
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.pdb
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.genruntimeconfig.cache
+C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.csprojAssemblyReference.cache
