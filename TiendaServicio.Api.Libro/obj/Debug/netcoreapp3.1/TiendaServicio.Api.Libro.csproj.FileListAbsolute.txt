@@ -49,9 +49,6 @@ C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServi
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.AssemblyInfoInputs.cache
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.AssemblyInfo.cs
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.csproj.CoreCompileInputs.cache
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.RazorTargetAssemblyInfo.cache
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicio.Api.Libro.csproj.CopyComplete
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicio.Api.Libro\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicio.Api.Libro.StaticWebAssets.Manifest.cache
