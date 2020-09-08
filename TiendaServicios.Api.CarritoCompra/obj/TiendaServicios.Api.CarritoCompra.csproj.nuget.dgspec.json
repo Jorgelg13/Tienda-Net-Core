@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A LIENWARE\\Desktop\\Proyectos\\Microservicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {}
+    "/home/jorge/Developer/NetCore/Tienda-Net-Core/TiendaServicios.Api.CarritoCompra/TiendaServicios.Api.CarritoCompra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A LIENWARE\\Desktop\\Proyectos\\Microservicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {
+    "/home/jorge/Developer/NetCore/Tienda-Net-Core/TiendaServicios.Api.CarritoCompra/TiendaServicios.Api.CarritoCompra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A LIENWARE\\Desktop\\Proyectos\\Microservicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "projectUniqueName": "/home/jorge/Developer/NetCore/Tienda-Net-Core/TiendaServicios.Api.CarritoCompra/TiendaServicios.Api.CarritoCompra.csproj",
         "projectName": "TiendaServicios.Api.CarritoCompra",
-        "projectPath": "C:\\Users\\A LIENWARE\\Desktop\\Proyectos\\Microservicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
-        "packagesPath": "C:\\Users\\A LIENWARE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A LIENWARE\\Desktop\\Proyectos\\Microservicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\obj\\",
+        "projectPath": "/home/jorge/Developer/NetCore/Tienda-Net-Core/TiendaServicios.Api.CarritoCompra/TiendaServicios.Api.CarritoCompra.csproj",
+        "packagesPath": "/home/jorge/.nuget/packages/",
+        "outputPath": "/home/jorge/Developer/NetCore/Tienda-Net-Core/TiendaServicios.Api.CarritoCompra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A LIENWARE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jorge/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
         }
       }
     }
