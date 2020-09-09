@@ -45,6 +45,3 @@ C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServi
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.csproj.CoreCompileInputs.cache
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\A LIENWARE\Desktop\Proyectos\Microservicios\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cache
